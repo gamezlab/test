@@ -1,3 +1,1 @@
-python is most powerful language in the world.
-Its slow for game development.
-but best for data science.
+This is readme of our upcoming social media "shy high". which is made in mergn stack hosted on mongo db which primary focused for privacy.
